@@ -6,7 +6,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "com.example.math"
+        applicationId "com.example.app_mathplay"
         minSdk 16
         targetSdk 31
         versionCode 1
